@@ -1,0 +1,3 @@
+name: api-demo
+runtime: dotnet
+description: Demo of Azure API Management
